@@ -15,6 +15,17 @@ La versión de Minecraft se encuentra actualmente secreta.
 - Juanmorg713
 
 ## Notas importantes para los jugadores
+- Si quieres establecer tu skin y has comprado Minecraft usa el comando **/skin set player <usuario de Minecraft>**. Si no has comprado Minecraft tendrás que un enlace para subir la skin, escribe a Alex por privado con tu skin para subirla a la página web, usa el comando **/skin set URL <la  URL de tu skin>**.
+- Inicias con un kit básico al entrar por primera vez, no podrás obtener más de lo que ya tienes.
+- Al morir obtienes una brújula que te llevará al punto donde moriste, tu inventario es guardado en una tumba.
+- Ahora es más fácil derribar los árboles.
+- Existe la posibilidad de ver la vida de los mobs cuando les apuntas.
+- Al principio queremos que sea un servidor supervivencia y todos seamos cooperativos. En un futuro cuando tengamos una buena base podremos empezar con algunas misiones. :eyes: Aceptamos todo tipo de sugerencias para dichas misiones, escriban por el privado.
+- Sugerimos no irnos muy lejos de la zona de aparición, la idea es hacer un fuerte o fuertes en los alrededores.
+- Recordar que el servidor no está encendido 24/7. Si tienen una cuenta de Aternos pueden darme su usuario para darles acceso a iniciar el servidor.
+- Recordarles que tenemos nuestro propio servidor de Discord: (Escribir por privado a Alex para adquirir enlace)
+  
+¡Estamos alegres de ver sus aventuras! Tenemos un canal llamado "screenshots" para subir capturas de pantalla de sus aventuras en Parqueland.
 ## Skins de jugadores
 - Juanmorg713: [enlace aquí](https://parqueland.ml/skin/juanmorg.png)
 

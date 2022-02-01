@@ -6,7 +6,7 @@ Parqueland es un servidor de Minecraft que inició en 2020 por un grupo de chico
 ### IP
 La dirección IP del servidor se encuentra actualmente secreta.
 ### Versión
-La versión de Minecraft se encuentra actualmente secreta.
+La versión de Minecraft del servidor es 1.18.1 y se puede entrar con Minecraft Vanilla y FabricMC por si quieren entrar con mods de Fabric para rendimiento o de utilidad como por ejemplo mods de mapas, etc.
 
 ## Jugadores confirmados
 - Alex22_SV

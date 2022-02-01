@@ -26,6 +26,7 @@ La versión de Minecraft se encuentra actualmente secreta.
 - Al principio queremos que sea un servidor supervivencia y todos seamos cooperativos. En un futuro cuando tengamos una buena base podremos empezar con algunas misiones. 👀 Aceptamos todo tipo de sugerencias para dichas misiones, escriban por el privado.
 - Sugerimos no irnos muy lejos de la zona de aparición, la idea es hacer un fuerte o fuertes en los alrededores.
 - Recordar que el servidor no está encendido 24/7. Si tienen una cuenta de Aternos pueden darme su usuario para darles acceso a iniciar el servidor.
+- El servidor usa mods pero no es necesario instalarlos en tu Minecraft, todos son puramente para el servidor.A
 - Recordarles que tenemos nuestro propio servidor de Discord: (Escribir por privado a Alex para adquirir enlace)
   
 ¡Estamos alegres de ver sus aventuras! Tenemos un canal llamado "screenshots" para subir capturas de pantalla de sus aventuras en Parqueland.

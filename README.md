@@ -12,6 +12,7 @@ La versión de Minecraft se encuentra actualmente secreta.
 - Alex22_SV
 - Dino
 - Dito727
+- Juanmorg713
 
 ## Notas importantes para los jugadores
 ## Skins de jugadores

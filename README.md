@@ -13,6 +13,9 @@ La versión de Minecraft se encuentra actualmente secreta.
 - Dino
 - Dito727
 - Juanmorg713
+- LINCE993
+- CoPp_nwn
+- cjnavarrete
 
 ## Notas importantes para los jugadores
 - Si quieres establecer tu skin y has comprado Minecraft usa el comando **/skin set player <usuario de Minecraft>**. Si no has comprado Minecraft tendrás que un enlace para subir la skin, escribe a Alex por privado con tu skin para subirla a la página web, usa el comando **/skin set URL <la  URL de tu skin>**.

@@ -16,6 +16,7 @@ La versión de Minecraft se encuentra actualmente secreta.
 
 ## Notas importantes para los jugadores
 ## Skins de jugadores
+- Juanmorg713: [enlace aquí](https://parqueland.ml/skin/juanmorg.png)
 
 ## Skins de NPCs
 - Samuel: [enlace aquí](https://parqueland.ml/npc/samuelnpc.png)

@@ -1,5 +1,5 @@
 # Parqueland
-En este repositorio subiremos todas las skins (y otras imágenes) que serán usadas para el servidor de Minecraft de **Parqueland**.
+Página web oficial del servidor de Minecraft de **Parqueland**.
 
 ## Información del servidor
 Parqueland es un servidor de Minecraft que inició en 2020 por un grupo de chicos, luego de Parqueland aparecieron otras secuelas como Parqueland II, Parqueland III y Parqueland IV. Ahora Parqueland ha regresado con la combinación de jugadores de otros servidores para jugar el regreso y renacimiento de Parqueland.

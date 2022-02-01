@@ -23,4 +23,4 @@ La versión de Minecraft se encuentra actualmente secreta.
 - Militar de nieve: [enlace aquí](https://parqueland.ml/npc/militarnieve.png)
 
 ## Nuestro logo
-![ParquelandLogo](https://alex22-sv.tk/parqueland.png)
+![ParquelandLogo](https://parqueland.ml/parqueland.png)

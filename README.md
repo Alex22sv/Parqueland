@@ -26,7 +26,8 @@ La versión de Minecraft del servidor es 1.18.1 y se puede entrar con Minecraft 
 - Al principio queremos que sea un servidor supervivencia y todos seamos cooperativos. En un futuro cuando tengamos una buena base podremos empezar con algunas misiones. 👀 Aceptamos todo tipo de sugerencias para dichas misiones, escriban por el privado.
 - Sugerimos no irnos muy lejos de la zona de aparición, la idea es hacer un fuerte o fuertes en los alrededores.
 - Recordar que el servidor no está encendido 24/7. Si tienen una cuenta de Aternos pueden darme su usuario para darles acceso a iniciar el servidor.
-- El servidor usa mods pero no es necesario instalarlos en tu Minecraft, todos son puramente para el servidor.A
+- El servidor usa mods pero no es necesario instalarlos en tu Minecraft, todos son puramente para el servidor.
+- Pedimos por favor no ir al nether o al end en los primeros días hasta que sea anunciado algún evento.
 - Recordarles que tenemos nuestro propio servidor de Discord: (Escribir por privado a Alex para adquirir enlace)
   
 ¡Estamos alegres de ver sus aventuras! Tenemos un canal llamado "screenshots" para subir capturas de pantalla de sus aventuras en Parqueland.

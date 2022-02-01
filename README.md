@@ -18,7 +18,7 @@ La versión de Minecraft del servidor es 1.18.1 y se puede entrar con Minecraft 
 - cjnavarrete
 
 ## Notas importantes para los jugadores
-- Si quieres establecer tu skin y has comprado Minecraft usa el comando **/skin set player <usuario de Minecraft>**. Si no has comprado Minecraft tendrás que un enlace para subir la skin, escribe a Alex por privado con tu skin para subirla a la página web, usa el comando **/skin set URL <la  URL de tu skin>**.
+- Si quieres establecer tu skin y has comprado Minecraft usa el comando **/skin set player {usuario de Minecraft}**. Si no has comprado Minecraft tendrás que un enlace para subir la skin, escribe a Alex por privado con tu skin para subirla a la página web, usa el comando **/skin set URL {la  URL de tu skin}**.
 - Inicias con un kit básico al entrar por primera vez, no podrás obtener más de lo que ya tienes.
 - Al morir obtienes una brújula que te llevará al punto donde moriste, tu inventario es guardado en una tumba.
 - Ahora es más fácil derribar los árboles.

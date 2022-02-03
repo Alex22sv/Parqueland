@@ -4,7 +4,7 @@ Página web oficial del servidor de Minecraft de **Parqueland**.
 ## Información del servidor
 Parqueland es un servidor de Minecraft que inició en 2020 por un grupo de chicos, luego de Parqueland aparecieron otras secuelas como Parqueland II, Parqueland III y Parqueland IV. Ahora Parqueland ha regresado con la combinación de jugadores de otros servidores para jugar el regreso y renacimiento de Parqueland.
 ### IP
-Parqueland.tk
+No puede ser publicada públicamente
 ### Versión
 La versión de Minecraft del servidor es 1.18.1 y se puede entrar con Minecraft Vanilla y FabricMC por si quieren entrar con mods de Fabric para rendimiento o de utilidad como por ejemplo mods de mapas, etc.
 

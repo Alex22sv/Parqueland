@@ -35,6 +35,7 @@ La versión de Minecraft del servidor es 1.18.1 y se puede entrar con Minecraft 
 - Recordar que el servidor no está encendido 24/7. Si tienen una cuenta de Aternos pueden darme su usuario para darles acceso a iniciar el servidor.
 - El servidor usa mods pero no es necesario instalarlos en tu Minecraft, todos son puramente para el servidor.
 - Pedimos por favor no ir al nether o al end en los primeros días hasta que sea anunciado algún evento.
+- ¿Problemas de conexión? Sigue los siguientes pasos: https://mi.certerus.com/knowledgebase/223/Como-hacer-un-Flush-DNS.html
 - Recordarles que tenemos nuestro propio servidor de Discord: (Escribir por privado a Alex para adquirir enlace)
   
 ¡Estamos alegres de ver sus aventuras! Tenemos un canal llamado "screenshots" para subir capturas de pantalla de sus aventuras en Parqueland.

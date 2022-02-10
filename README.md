@@ -41,6 +41,7 @@ La versión de Minecraft del servidor es 1.18.1 y se puede entrar con Minecraft 
 ¡Estamos alegres de ver sus aventuras! Tenemos un canal llamado "screenshots" para subir capturas de pantalla de sus aventuras en Parqueland.
 ## Skins de jugadores
 - Juanmorg713: [enlace aquí](https://parqueland.ml/skin/juanmorg.png)
+- Alexanpro24: [enlace aquí](https://parqueland.ml/skin/alexanpro.png)
 
 ## Skins de NPCs
 - Samuel: [enlace aquí](https://parqueland.ml/npc/samuelnpc.png)

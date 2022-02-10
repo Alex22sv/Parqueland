@@ -16,6 +16,12 @@ La versión de Minecraft del servidor es 1.18.1 y se puede entrar con Minecraft 
 - LINCE993
 - CoPp_nwn
 - cjnavarrete
+- Mateopolar
+- FidelAL
+- Alexan24
+- ChocoChoco_
+- garcia_carlos
+- kiminotokore
 
 ## Personas con acceso a iniciar el servidor
 - Alex22_SV

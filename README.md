@@ -30,6 +30,20 @@ La versión de Minecraft del servidor es 1.18.1 y se puede entrar con Minecraft 
 - juan713_m
 - cjnavarrete
 
+## Evento de construcción
+Hola Parqueleños, el día de hoy les traemos el primer evento de Parqueland. Un evento de construcciones en el cual todos los jugadores podrán participar en la mejor construcción del mundo. La temática de la construcción es libre y siempre y cuando se respeten ciertas reglas:
+1. Todos pueden participar, ya sea por clanes o individualmente.
+2. Todas las construcciones serán hechas sin creativo, todo legal.
+3. El tiempo máximo es el día viernes 25 de febrero a las 8:00 am hora local, luego de este tiempo un admin entrará y tomará capturas de todas las construcciones, solo podrán votar una vez y no podrán votar a su propia construcción.
+4. Si un clan gana el premio será para el clan, no para cada jugador del clan.
+
+Espero estén tan emocionados así como nosotros lo estamos. Tendremos 3 ganadores, los premios son:
+- 1° lugar: 15 diamantes, una montura, una mascota y una etiqueta.
+- 2° lugar: 10 diamantes, una montura, una mascota y una etiqueta.
+- 3° lugar: 5 diamantes, una montura, una mascota y una etiqueta.
+
+Los premios se entregarán a los ganadores personalmente para evitar fraude o robo.
+
 ## Notas importantes para los jugadores
 - Si quieres establecer tu skin y has comprado Minecraft usa el comando **/skin set mojang {usuario de Minecraft}**. Si no has comprado Minecraft tendrás que utilizar un enlace para subir la skin, escribe a Alex por privado con tu skin para subirla a la página web, usa el comando **/skin set web "{la  URL de tu skin}"**, es obligatorio usar las comillas.
 - Inicias con un kit básico al entrar por primera vez, no podrás obtener más de lo que ya tienes.

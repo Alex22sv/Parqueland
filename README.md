@@ -9,7 +9,9 @@ No puede ser publicada públicamente
 La versión de Minecraft es 1.12.2 y se requiere tener instalado Forge también.
 ### Mods
 La lista de mods será publicada muy pronto.
-
+### Paquete de recursos
+Actualmente usamos un único paquete de recursoss: [Tissou's Zombie Pack](https://www.curseforge.com/minecraft/texture-packs/tissous-zombie-pack-optifine-1-7x-1-16), el cual cambia el comportamiento de los zombies con sonidos, skins, etc.
+Al entrar al servidor por primera vez te saldrá la opción de descargar el paquete de recursos y activarlo automáticamente. Es obligatorio usar este paquete de recursos.
 ## Jugadores confirmados
 - Alex22_SV
 

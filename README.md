@@ -22,4 +22,4 @@ Al entrar al servidor por primera vez te saldrá la opción de descargar el paqu
 Será actualizado muy pronto.
 
 ## Nuestro logo
-[!img](https://github.com/Alex22-SV/Parqueland/blob/main/screenshots/Parqu3land.png)
+[Parqueland](/screenshots/Parqu3land.png)

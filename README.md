@@ -36,4 +36,4 @@ Al entrar al servidor por primera vez te saldrá la opción de descargar el paqu
 Será actualizado muy pronto.
 
 ## Nuestro logo
-[Parqueland](/screenshots/Parqu3land.png)
+![Parqueland](/screenshots/Parqu3land.png)

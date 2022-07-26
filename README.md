@@ -22,7 +22,9 @@ Al entrar al servidor por primera vez te saldrá la opción de descargar el paqu
 7. NO se pueden usar minas en los primeros días.
 8. El uso de diamantes está permitido pero se recomienda no avanzar tanto el primer día.
 9. El admin y los DIOSES están presentes en este servidor pero no interactuarán directamente con los jugadores, NO está permitido pedirle cosas a los DIOSES o el admin al menos que haya un bug reportado y se tengan pruebas.
-10. Mods permitidos a partir del primer día: Comforts (para hamacas y bolsas de dormir), Leather Works (mod de mochilas), Electroblob's Wizardry (mod de magos), Elevators (elevadores), Biome
+10. Mods permitidos a partir del primer día: Comforts (para hamacas y bolsas de dormir), Leather Works (mod de mochilas), Electroblob's Wizardry (mod de magos), Elevators (elevadores), Biomes O' Plenty (mod de biomas).
+11. NO se puede secuestrar aldeanos.
+12. NO se puede invocar al Wither, por el momento.
 ## Jugadores confirmados
 - Alex22_SV
 

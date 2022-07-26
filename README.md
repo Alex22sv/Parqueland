@@ -25,6 +25,7 @@ Al entrar al servidor por primera vez te saldrá la opción de descargar el paqu
 10. Mods permitidos a partir del primer día: Comforts (para hamacas y bolsas de dormir), Leather Works (mod de mochilas), Electroblob's Wizardry (mod de magos), Elevators (elevadores), Biomes O' Plenty (mod de biomas).
 11. NO se puede secuestrar aldeanos.
 12. NO se puede invocar al Wither, por el momento.
+13. SÍ se pueden agarrar los cultivos del pueblo pero se debe replantar.
 ## Jugadores confirmados
 - Alex22_SV
 

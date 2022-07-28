@@ -8,7 +8,36 @@ No puede ser publicada públicamente
 ### Versión
 La versión de Minecraft es 1.12.2 y se requiere tener instalado Forge también.
 ### Mods
-La lista de mods será publicada muy pronto.
+Hay mods opcionales y otros obligatorios, en este apartado especificaremos todos. La lista de mods puede incrementar conforme avanza el progreso del servidor.
+Carpeta de mods: https://drive.google.com/drive/folders/1bMvQ9gCRDqlHeF2x8AT7pRxu5JgaSBEA?usp=sharing
+#### Lista de mods
+##### Mods obligatorios
+- [1.12.2]+SecurityCraft+v1.9.2.jar 
+- BiomesOPlenty-1.12.2-7.0.1.2444-universal.jar
+- Bookshelf-1.12.2-2.3.590.jar
+- coherent_villages-pre-release_v0.0.5.10.jar
+- Comes-Alive-espanol.jar
+- comforts-1.12.2-1.4.1.3.jar
+- CreativeCore_v1.10.70_mc1.12.2.jar
+- CustomNPCs_1.12.2-(05Jul20).jar
+- ElectroblobsWizardry-4.3.8.jar
+- ElevatorMod-1.12.2-1.3.14.jar
+- extrautils2-1.12-1.9.9.jar
+- IvToolkit-1.3.3-1.12.jar
+- LeatherWorks-1.12-1.78.0.42.jar
+- More+Mobs+1.12.2.jar
+- PlayerRevive_v1.2.40_mc1.12.2.jar
+- RadixCore-1.12.x-2.2.1-universal.jar
+- RecurrentComplex-1.4.8.2.jar
+- tombstone-4.5.6-1.12.2.jar
+- worldedit-forge-mc1.12.2-6.1.10-dist.jar
+- WorldProtector+(1.12).jar
+##### Mods opcionales
+- Hwyla-1.8.26-B41_1.12.2.jar (Para ver el nombre y mod del objeto que estés apuntando, también muestra la vida de los jugadores)
+- jei_1.12.2-4.16.1.302.jar (Te lista todos los bloques, items, etc. y te permite revisar sus crafteos)
+- MoBends_1.12.2-1.2.1-19.12.21.jar (Cambia la animación del movimiento de los jugadores y cambia las texturas de algunos mobs)
+- journeymap-1.12.2-5.7.1.jar (Mod de mapa)
+- OfflineSkins-1.12.2-v6.jar (Es especialmente para los jugadores que han comprado Minecraft, pero también para aquellos que no pueden ver sus skins por X o Y razón)
 ### Paquete de recursos
 Actualmente usamos un único paquete de recursos: [Tissou's Zombie Pack](https://www.curseforge.com/minecraft/texture-packs/tissous-zombie-pack-optifine-1-7x-1-16), el cual cambia el comportamiento de los zombies con sonidos, skins, etc.
 Al entrar al servidor por primera vez te saldrá la opción de descargar el paquete de recursos y activarlo automáticamente. Es obligatorio usar este paquete de recursos.

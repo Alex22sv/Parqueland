@@ -9,7 +9,7 @@ No puede ser publicada públicamente
 La versión de Minecraft es 1.12.2 y se requiere tener instalado Forge también.
 ### Mods
 Hay mods opcionales y otros obligatorios, en este apartado especificaremos todos. La lista de mods puede incrementar conforme avanza el progreso del servidor.
-Carpeta de mods: https://drive.google.com/drive/folders/1bMvQ9gCRDqlHeF2x8AT7pRxu5JgaSBEA?usp=sharing
+Carpeta de mods: [presiona aquí](https://drive.google.com/drive/folders/1bMvQ9gCRDqlHeF2x8AT7pRxu5JgaSBEA?usp=sharing)
 #### Lista de mods
 ##### Mods obligatorios
 - [1.12.2]+SecurityCraft+v1.9.2.jar 
